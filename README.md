@@ -164,6 +164,8 @@ https://hostingtutorials.dev/blog/free-spring-boot-host-with-render (TOP)
 
 https://javawhizz.com/2023/03/host-a-spring-boot-application-for-free-on-render
 
+https://zeet.co
+
 ### STEPS
 
 - package your application with **Maven** run: `mvn clean package`
